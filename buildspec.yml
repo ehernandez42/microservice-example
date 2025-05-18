@@ -3,7 +3,7 @@ version: 0.1
 phases:
   install:
     runtime-versions:
-      nodejs: 22
+      nodejs: 20
   build:
     commands:
       - npm install

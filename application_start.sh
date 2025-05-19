@@ -1,2 +1,2 @@
-cd /home.ubuntu/nodejs/microservice-example
+cd /home/ec2-user/microservice-example
 npm run start
